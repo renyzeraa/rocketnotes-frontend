@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o desafio
 
-A ideia agora foi fazer o deploy da aplicação em React.js, nossa página web do My Movies.
+A ideia agora foi fazer o deploy da aplicação em React.js, nossa página web do Rocket Notes.
 
 Antes do Deploy do frontend foi colocar o backend no ar, e manter funcionando. Backend foi implantado no Heroku. Ja aqui o frontend, foi utilizado o Netlify.
 
