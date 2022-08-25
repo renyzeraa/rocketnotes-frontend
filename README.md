@@ -6,6 +6,8 @@
 
 A ideia agora foi fazer o deploy da aplicação em React.js, nossa página web do Rocket Notes.
 
+Veja como foi feita a aplicação [**aqui**](https://github.com/renyzeraa/rocketseat-explorer/tree/main/Stage09/Challenge02/rocketmovies)
+
 Antes do Deploy do frontend foi colocar o backend no ar, e manter funcionando. Backend foi implantado no Heroku. Ja aqui o frontend, foi utilizado o Netlify.
 
 <a href="https://rocket-notes-aplication.netlify.app/" target="_blank" > <h1> **Deploy 🚀** </h1></a>
