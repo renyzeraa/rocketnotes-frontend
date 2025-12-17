@@ -10,7 +10,6 @@ Veja como foi feita a aplicação [**aqui**](https://github.com/renyzeraa/rocket
 
 Antes do Deploy do frontend foi colocar o backend no ar, e manter funcionando. Backend foi implantado no Heroku. Ja aqui o frontend, foi utilizado o Netlify.
 
-<a href="https://rocket-notes-aplication.netlify.app/" target="_blank" > <h1> **Deploy 🚀** </h1></a>
 
 # Projeto Final 🤩
 
